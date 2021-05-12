@@ -15,7 +15,7 @@ When the executable (Day_Cycle) is run, with some statures and 2 fire chalasis
 this Developer Tool is a simple day cycle with the inpit being bound to the number keys on a keyboard
 each number key is bound to a light poaition (time of day) as shown below
 
-![](Comp3015/media/scene.png)
+![](Comp3015-CW2/media/scene.png)
 
 ----------------------------------------------------------
 How does it work / how does the code fit together

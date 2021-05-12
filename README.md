@@ -10,17 +10,12 @@ How to use
 
 The executable is a Optimised Developer Tool prototype to show off my knowledge of GLSL. 
 
-<<<<<<< Updated upstream
 When the executable is run, with some statues and 2 fire chalace.
-=======
 When the executable (Day_Cycle) is run, with some statures and 2 fire chalasis
->>>>>>> Stashed changes
-
 this Developer Tool is a simple day cycle with the inpit being bound to the number keys on a keyboard
-
 each number key is bound to a light poaition (time of day) as shown below
 
-![](media/sense.png)
+![](media/scene.png)
 
 ----------------------------------------------------------
 How does it work / how does the code fit together
@@ -54,8 +49,8 @@ this development tool prototype is diffrent to similer onces due to the light po
 
 also this shader is special due to the partical shader also being bound to the keys so when the light is lower the fire starts up but when it is high in the sky the fire is put out and smoke starts billowing out instead.
 
-<<<<<<< Updated upstream
+
 Also this shader is special due to the partical shader also being bound to the keys. So when the light is lower the fire starts up but when the light is higher in the sky, the fire is put out and smoke starts billowing out instead, showing that the fire has been put out.
-=======
+
 [![]](https://www.youtube.com/watch?v=koVhqPrV75Y)
->>>>>>> Stashed changes
+

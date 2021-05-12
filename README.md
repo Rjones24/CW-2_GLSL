@@ -1,4 +1,4 @@
-# CW1_GLSL
+# CW2_GLSL
  
 Visual Studio 2019 and Operating System windows 10
 

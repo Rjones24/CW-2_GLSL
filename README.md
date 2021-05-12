@@ -8,7 +8,7 @@ How to use
 
 The executable is a Optimised Developer Tool prototype to show off my knowledge of GLSL. 
 
-When the executable is run, with some statures and 2 fire chalace.
+When the executable is run, with some statues and 2 fire chalace.
 
 This Developer Tool is a simple day cycle with the input being bound to the number keys on a keyboard.
 

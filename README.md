@@ -15,7 +15,7 @@ When the executable (Day_Cycle) is run, with some statures and 2 fire chalasis
 this Developer Tool is a simple day cycle with the inpit being bound to the number keys on a keyboard
 each number key is bound to a light poaition (time of day) as shown below
 
-![](media/scene.png)
+![](Comp3015/media/scene.png)
 
 ----------------------------------------------------------
 How does it work / how does the code fit together
@@ -52,5 +52,5 @@ also this shader is special due to the partical shader also being bound to the k
 
 Also this shader is special due to the partical shader also being bound to the keys. So when the light is lower the fire starts up but when the light is higher in the sky, the fire is put out and smoke starts billowing out instead, showing that the fire has been put out.
 
-[![]](https://www.youtube.com/watch?v=koVhqPrV75Y)
+(https://www.youtube.com/watch?v=koVhqPrV75Y)
 

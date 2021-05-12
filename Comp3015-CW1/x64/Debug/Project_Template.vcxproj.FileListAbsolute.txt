@@ -18,3 +18,5 @@ C:\Users\Ryan\Documents\GitHub\CW2_GLSL - Copy\Comp3015-CW1\x64\Debug\Project_Te
 C:\Users\Ryan\Documents\GitHub\CW2_GLSL - Copy\Comp3015-CW1\x64\Debug\Project_Template.pdb
 C:\Users\Ryan\Documents\GitHub\CW2_GLSL\Comp3015-CW1\x64\Debug\Project_Template.exe
 C:\Users\Ryan\Documents\GitHub\CW2_GLSL\Comp3015-CW1\x64\Debug\Project_Template.pdb
+C:\Users\Ryan\Documents\GitHub\CW-2_GLSL\Comp3015-CW1\x64\Debug\Project_Template.exe
+C:\Users\Ryan\Documents\GitHub\CW-2_GLSL\Comp3015-CW1\x64\Debug\Project_Template.pdb
